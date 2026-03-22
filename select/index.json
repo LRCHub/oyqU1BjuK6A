@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Power Up",
+  "base_artist": "Red Velvet",
+  "createdAt": "2026-03-22T06:07:46.924740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Power Up",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/01_Power_Up_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Power Up - Japanese Ver.",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/02_Power_Up_-_Japanese_Ver._Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Power Up (Japanese Ver.)",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/03_Power_Up_(Japanese_Ver.)_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Power up",
+      "artist": "NINE.i",
+      "has_synced": true,
+      "path": "select/04_Power_up_NINE.i.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Power up",
+      "artist": "NINE.i",
+      "has_synced": false,
+      "path": "select/05_Power_up_NINE.i.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Power Up - Japanese Version",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/06_Power_Up_-_Japanese_Version_Red_Velvet.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Power Up",
+      "artist": "Red Velvet (레드벨벳)",
+      "has_synced": true,
+      "path": "select/07_Power_Up_Red_Velvet_(레드벨벳).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Power Up (Japanese Ver.)",
+      "artist": "Red Velvet (레드벨벳)",
+      "has_synced": true,
+      "path": "select/08_Power_Up_(Japanese_Ver.)_Red_Velvet_(레드벨벳).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rev Up Power Up",
+      "artist": "OR3O feat. Thai McGrath",
+      "has_synced": true,
+      "path": "select/09_Rev_Up_Power_Up_OR3O_feat._Thai_McGrath.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rev Up Power Up (feat. Thai McGrath)",
+      "artist": "OR3O",
+      "has_synced": true,
+      "path": "select/10_Rev_Up_Power_Up_(feat._Thai_McGrath)_OR3O.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Power Up",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/pl_01_Power_Up_Red_Velvet.txt"
+    }
+  ]
+}
